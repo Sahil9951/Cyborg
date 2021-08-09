@@ -1,12 +1,12 @@
 {
-  "name": "afkbot",
+  "name": "24.7",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is a bot that makes ur aternos server online 24/7",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "MannuG",
+  "author": "Sahil",
   "license": "ISC",
   "dependencies": {
     "config": "^3.3.3",
